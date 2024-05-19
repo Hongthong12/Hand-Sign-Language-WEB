@@ -1,0 +1,106 @@
+.container {
+    background: linear-gradient(to right,#ADD2C9 ,#659BAB);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2330px; 
+    display: flex;
+  }
+  .paper {
+    background-color: #FFFFFF; 
+    width: 1480px; 
+    height: 2287px; 
+    border: 2px dashed #000000; 
+    margin-top: 3px;
+   
+  }
+
+  .title {
+    font-family: 'BoonBaan', sans-serif;
+    font-size: 27px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.5;
+    margin: 0;
+    color: #488B8F;
+    text-indent: 30px;
+    margin-top: 80px;
+    padding: 30px;
+  }
+  
+  .subtitle {
+    font-family: 'BoonBaan', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px; 
+    color:#488B8F ;
+  }
+
+  .teach {
+    font-family: 'BoonBaan', sans-serif; 
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 45px; 
+    color:#488B8F ;
+  }
+
+  .tc {
+    display: block; 
+    margin-top: 30px;
+    margin-left: auto; 
+    margin-right: auto; 
+    max-width: 20%;
+    height: auto;
+    border: 2px solid #488B8F;
+    border-radius: 2%;
+  }
+  .nametc {
+    font-family: 'BoonBaan', sans-serif; 
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px; 
+    color:#488B8F ;
+  }
+
+  .team {
+    font-family: 'BoonBaan', sans-serif;
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px; 
+    color:#488B8F ;
+  }
+
+  .image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+  }
+  
+  .image {
+    border: 2px solid #488B8F;
+    margin-top: auto;
+    margin-left: auto; 
+    margin-right: auto; 
+    max-width: 20%;
+    height: auto;
+    border-radius: 2%;
+  }
+
+  .name-image {
+    font-family: 'BoonBaan', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color: #488B8F;
+    font-size: 28px;
+    font-weight: bold;
+  }
+
+  .footer {
+    margin-top: 320px;
+  }
+  

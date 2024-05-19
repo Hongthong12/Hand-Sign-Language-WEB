@@ -1,0 +1,59 @@
+.background {
+    background: linear-gradient(to right,#ADD2C9 ,#659BAB);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 950px; 
+    display: flex;
+}
+
+.Board {
+    background-color: #FFFFFF; 
+    width: 1480px; 
+    height:900px;
+    border: 2px dashed #000000; 
+    margin-top: 3px;
+}
+
+.map-iframe {
+    width: 96%;
+    height: 500px;
+    border: 0;
+    margin-bottom: 50px; 
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 2%;
+}
+
+.Contact {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-top: 20px;
+}
+
+.contact-item {
+    font-family: 'Noto Sans Lao', sans-serif; 
+    color: #78829a; 
+    display: flex;
+    margin-left: 5%;
+    margin-bottom: 20px; 
+}
+
+.contact-item .fa-icon {
+    margin-right: 10px;
+    margin-top: 4px;
+    
+}
+
+.name {
+    margin-left: 150px;
+}
+.address {
+    margin-left: 130px;
+}
+.location {
+    margin-left: 166px;
+}
+.phone {
+    margin-left: 118px;
+}
